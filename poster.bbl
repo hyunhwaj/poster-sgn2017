@@ -1,0 +1,23 @@
+\begin{thebibliography}{1}
+
+\bibitem{jeong2017crisprcloud}
+Hyun-Hwan Jeong, Seon~Young Kim, Maxime~WC Rousseaux, Huda~Y Zoghbi, and
+  Zhandong Liu.
+\newblock Crisprcloud: A secure cloud-based pipeline for crispr pooled screen
+  deconvolution.
+\newblock {\em Bioinformatics}, 2017.
+
+\bibitem{jeong2015investigating}
+Hyun-hwan Jeong, So~Y Kim, Kyubum Wee, and Kyung-Ah Sohn.
+\newblock Investigating the utility of clinical outcome-guided mutual
+  information network in network-based cox regression.
+\newblock In {\em BMC systems biology}, volume~9, page~S8. BioMed Central Ltd,
+  2015.
+
+\bibitem{jeong2015integrative}
+Hyun-hwan Jeong, Sangseob Leem, Kyubum Wee, and Kyung-Ah Sohn.
+\newblock Integrative network analysis for survival-associated gene-gene
+  interactions across multiple genomic profiles in ovarian cancer.
+\newblock {\em Journal of ovarian research}, 8(1):42, 2015.
+
+\end{thebibliography}
