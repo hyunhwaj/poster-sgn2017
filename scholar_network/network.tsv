@@ -1,0 +1,127 @@
+Source	Target	Weight
+Jeong, Hyun-Hwan	Kim, Seung-Hyun	0.21428571428571427
+Cho, Bo-Young	Kim, Seung-Hyun	0.07142857142857142
+Kim, MyoungKi	Kim, Seung-Hyun	0.07142857142857142
+Kim, Seung-Hyun	Lee, Hyun-Young	0.07142857142857142
+Kim, Seung-Hyun	Lee, Jungseob	0.14285714285714285
+Kim, Seung-Hyun	Wee, Kyubum	0.21428571428571427
+Kim, Seung-Hyun	Park, Hae-Sim	0.14285714285714285
+Cho, Bo-Young	Jeong, Hyun-Hwan	0.07142857142857142
+Jeong, Hyun-Hwan	Kim, MyoungKi	0.07142857142857142
+Jeong, Hyun-Hwan	Lee, Hyun-Young	0.07142857142857142
+Jeong, Hyun-Hwan	Lee, Jungseob	0.21428571428571427
+Jeong, Hyun-Hwan	Wee, Kyubum	0.42857142857142855
+Jeong, Hyun-Hwan	Park, Hae-Sim	0.14285714285714285
+Cho, Bo-Young	Kim, MyoungKi	0.07142857142857142
+Cho, Bo-Young	Lee, Hyun-Young	0.07142857142857142
+Cho, Bo-Young	Lee, Jungseob	0.07142857142857142
+Cho, Bo-Young	Wee, Kyubum	0.07142857142857142
+Cho, Bo-Young	Park, Hae-Sim	0.07142857142857142
+Kim, MyoungKi	Lee, Hyun-Young	0.07142857142857142
+Kim, MyoungKi	Lee, Jungseob	0.07142857142857142
+Kim, MyoungKi	Wee, Kyubum	0.07142857142857142
+Kim, MyoungKi	Park, Hae-Sim	0.07142857142857142
+Lee, Hyun-Young	Lee, Jungseob	0.07142857142857142
+Lee, Hyun-Young	Wee, Kyubum	0.07142857142857142
+Lee, Hyun-Young	Park, Hae-Sim	0.07142857142857142
+Lee, Jungseob	Wee, Kyubum	0.21428571428571427
+Lee, Jungseob	Park, Hae-Sim	0.07142857142857142
+Park, Hae-Sim	Wee, Kyubum	0.14285714285714285
+Jeong, Hyun-Hwan	Leem, Sangseob	0.14285714285714285
+Lee, Jungseob	Leem, Sangseob	0.07142857142857142
+Leem, Sangseob	Wee, Kyubum	0.14285714285714285
+Leem, Sangseob	Sohn, Kyung-Ah	0.14285714285714285
+Jeong, Hyun-Hwan	Sohn, Kyung-Ah	0.6428571428571429
+Lee, Jungseob	Sohn, Kyung-Ah	0.07142857142857142
+Sohn, Kyung-Ah	Wee, Kyubum	0.2857142857142857
+Ho, Joshua WK	Sohn, Kyung-Ah	0.07142857142857142
+Djordjevic, Djordje	Sohn, Kyung-Ah	0.07142857142857142
+Park, Peter J	Sohn, Kyung-Ah	0.07142857142857142
+Kim, Ju Han	Sohn, Kyung-Ah	0.07142857142857142
+Djordjevic, Djordje	Ho, Joshua WK	0.07142857142857142
+Ho, Joshua WK	Jeong, Hyun-Hwan	0.07142857142857142
+Ho, Joshua WK	Park, Peter J	0.07142857142857142
+Ho, Joshua WK	Kim, Ju Han	0.07142857142857142
+Djordjevic, Djordje	Jeong, Hyun-Hwan	0.07142857142857142
+Djordjevic, Djordje	Park, Peter J	0.07142857142857142
+Djordjevic, Djordje	Kim, Ju Han	0.07142857142857142
+Jeong, Hyun-Hwan	Park, Peter J	0.07142857142857142
+Jeong, Hyun-Hwan	Kim, Ju Han	0.07142857142857142
+Kim, Ju Han	Park, Peter J	0.07142857142857142
+Jeong, Hyun-Hwan	Jung, Woojin	0.07142857142857142
+Jung, Woojin	Lee, KiYoung	0.07142857142857142
+Jeong, Hyun-Hwan	Lee, KiYoung	0.07142857142857142
+Jeong, Hyun-Hwan	Kim, So Yeon	0.21428571428571427
+Kim, So Yeon	Wee, Kyubum	0.07142857142857142
+Kim, So Yeon	Sohn, Kyung-Ah	0.21428571428571427
+Gu, Sungdo	Kim, So Yeon	0.14285714285714285
+Gu, Sungdo	Jeong, Hyun-Hwan	0.14285714285714285
+Gu, Sungdo	Sohn, Kyung-Ah	0.14285714285714285
+Jeong, Hyun-Hwan	Vangimalla, Reddy Rani	0.07142857142857142
+Sohn, Kyung-Ah	Vangimalla, Reddy Rani	0.07142857142857142
+Jeong, Hyun-Hwan	Wang, Sehee	0.07142857142857142
+Kim, Dokyoon	Wang, Sehee	0.07142857142857142
+Wang, Sehee	Wee, Kyubum	0.07142857142857142
+Park, Hae-Sim	Wang, Sehee	0.07142857142857142
+Kim, Seung-Hyun	Wang, Sehee	0.07142857142857142
+Sohn, Kyung-Ah	Wang, Sehee	0.07142857142857142
+Jeong, Hyun-Hwan	Kim, Dokyoon	0.07142857142857142
+Kim, Dokyoon	Wee, Kyubum	0.07142857142857142
+Kim, Dokyoon	Park, Hae-Sim	0.07142857142857142
+Kim, Dokyoon	Kim, Seung-Hyun	0.07142857142857142
+Kim, Dokyoon	Sohn, Kyung-Ah	0.07142857142857142
+Park, Hae-Sim	Sohn, Kyung-Ah	0.07142857142857142
+Kim, Seung-Hyun	Sohn, Kyung-Ah	0.07142857142857142
+Jeong, Hyun-Hwan	Kim, Seon Young	0.07142857142857142
+Jeong, Hyun-Hwan	Rousseaux, Maxime WC	0.07142857142857142
+Jeong, Hyun-Hwan	Zoghbi, Huda Y	0.07142857142857142
+Jeong, Hyun-Hwan	Liu, Zhandong	0.07142857142857142
+Kim, Seon Young	Rousseaux, Maxime WC	0.07142857142857142
+Kim, Seon Young	Zoghbi, Huda Y	0.07142857142857142
+Kim, Seon Young	Liu, Zhandong	0.07142857142857142
+Rousseaux, Maxime WC	Zoghbi, Huda Y	0.07142857142857142
+Liu, Zhandong	Rousseaux, Maxime WC	0.07142857142857142
+Liu, Zhandong	Zoghbi, Huda Y	0.07142857142857142
+Kim, Seung-Hyun	Lee, Hyun-young	0.07142857142857142
+Kim, Myeong-ki	Kim, Seung-Hyun	0.07142857142857142
+Cho, Bo-young	Kim, Seung-Hyun	0.07142857142857142
+Kim, Seung-Hyun	Park, Hae-sim	0.07142857142857142
+Jeong, Hyun-Hwan	Lee, Hyun-young	0.07142857142857142
+Jeong, Hyun-Hwan	Kim, Myeong-ki	0.07142857142857142
+Cho, Bo-young	Jeong, Hyun-Hwan	0.07142857142857142
+Jeong, Hyun-Hwan	Park, Hae-sim	0.07142857142857142
+Kim, Myeong-ki	Lee, Hyun-young	0.07142857142857142
+Cho, Bo-young	Lee, Hyun-young	0.07142857142857142
+Lee, Hyun-young	Lee, Jungseob	0.07142857142857142
+Lee, Hyun-young	Wee, Kyubum	0.07142857142857142
+Lee, Hyun-young	Park, Hae-sim	0.07142857142857142
+Cho, Bo-young	Kim, Myeong-ki	0.07142857142857142
+Kim, Myeong-ki	Lee, Jungseob	0.07142857142857142
+Kim, Myeong-ki	Wee, Kyubum	0.07142857142857142
+Kim, Myeong-ki	Park, Hae-sim	0.07142857142857142
+Cho, Bo-young	Lee, Jungseob	0.07142857142857142
+Cho, Bo-young	Wee, Kyubum	0.07142857142857142
+Cho, Bo-young	Park, Hae-sim	0.07142857142857142
+Lee, Jungseob	Park, Hae-sim	0.07142857142857142
+Park, Hae-sim	Wee, Kyubum	0.07142857142857142
+Hryc, Corey F	Roh, Soung-Hun	0.07142857142857142
+Jeong, Hyun-Hwan	Roh, Soung-Hun	0.07142857142857142
+Fei, Xue	Roh, Soung-Hun	0.07142857142857142
+Jakana, Joanita	Roh, Soung-Hun	0.07142857142857142
+Lorimer, George H	Roh, Soung-Hun	0.07142857142857142
+Chiu, Wah	Roh, Soung-Hun	0.07142857142857142
+Hryc, Corey F	Jeong, Hyun-Hwan	0.07142857142857142
+Fei, Xue	Hryc, Corey F	0.07142857142857142
+Hryc, Corey F	Jakana, Joanita	0.07142857142857142
+Hryc, Corey F	Lorimer, George H	0.07142857142857142
+Chiu, Wah	Hryc, Corey F	0.07142857142857142
+Fei, Xue	Jeong, Hyun-Hwan	0.07142857142857142
+Jakana, Joanita	Jeong, Hyun-Hwan	0.07142857142857142
+Jeong, Hyun-Hwan	Lorimer, George H	0.07142857142857142
+Chiu, Wah	Jeong, Hyun-Hwan	0.07142857142857142
+Fei, Xue	Jakana, Joanita	0.07142857142857142
+Fei, Xue	Lorimer, George H	0.07142857142857142
+Chiu, Wah	Fei, Xue	0.07142857142857142
+Jakana, Joanita	Lorimer, George H	0.07142857142857142
+Chiu, Wah	Jakana, Joanita	0.07142857142857142
+Chiu, Wah	Lorimer, George H	0.07142857142857142
